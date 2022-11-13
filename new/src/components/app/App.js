@@ -1,4 +1,4 @@
-import './App.css';
+import '../../style/App.css';
 import { Chart } from 'react-google-charts';
 
 export const data = [
